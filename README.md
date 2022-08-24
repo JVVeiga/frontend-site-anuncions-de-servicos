@@ -43,7 +43,7 @@ Frontend do projeto acadêmico do site de anúncios de serviços na Faculdade Ba
     </td>
     <td align="center">
       <a href="https://github.com/0no">
-        <img src="https://avatars.githubusercontent.com/u/8201698?v=4" width="80px;" alt="Bruno Roberto Morillo" /><br />
+        <img src="https://avatars.githubusercontent.com/u/8201698?v=4" width="80px;" alt="Bruno Ono de Moraes" /><br />
         <sub><b>Bruno Ono de Moraes</b></sub>
       </a>
       <br/> 🧑‍🏫 🤔
