@@ -35,9 +35,9 @@ Frontend do projeto acadêmico do site de anúncios de serviços na Faculdade Ba
       <br/> 📓 🔬
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/35462249?v=4" width="80px;" alt="João Pereira" /><br />
-        <sub><b>João Pereira</b></sub>
+      <a href="https://github.com/JoaoVitorVPereira">
+        <img src="https://avatars.githubusercontent.com/u/111972555?v=4" width="80px;" alt="João Vitor Pereira" /><br />
+        <sub><b>João Vitor Pereira</b></sub>
       </a>
       <br/> 🚇 🛡️
     </td>
